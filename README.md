@@ -4,7 +4,10 @@
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50px";height="50px"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leorsc&layout=compact&theme=radical)](https://github.com/Leorsc/github-readme-stats)
+
+![Leorsc GitHub stats](https://github-readme-stats.vercel.app/api?username=Leorsc&show_icons=true&theme=radical)
+
 
 
      
