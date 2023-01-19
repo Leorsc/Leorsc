@@ -4,9 +4,13 @@ Baiano, fascinado pela química, apaixonado pela computação ❤️. Motivado e
 
 **Tenho interesse em atuar como desenvolvedor Web Full Stack.**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leorsc&layout=compact&theme=radical)](https://github.com/Leorsc/github-readme-stats)
+<div>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leorsc&theme=radical&line_height=40&hide=css"/> </a>
+     
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Leorsc&show_icons=true&theme=radical"/> </a>
+</div>
 
-![Leorsc GitHub stats](https://github-readme-stats.vercel.app/api?username=Leorsc&show_icons=true&theme=radical)
+
 
 
 # Tecnologias e Ferramentas
